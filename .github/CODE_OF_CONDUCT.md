@@ -55,7 +55,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior, may be repo
 Or alternatively, you can reach out directly to any of the team members behind the address above:  
 
 * Sebastiaan Janssen (He, Him - Languages spoken: English, Dutch, Danish(Read)) [sebastiaan@umbraco.com](mailto:sebastiaan@umbraco.com)
-* Ilham Boulghallat (She, Her - Languages spoken: English, French, Arabic) [ilham@umbraco.com](mailto:ilham@umbraco.com)
 * Arnold Visser (He, Him - Languages spoken: English, Dutch) [arnold@umbraco.com](mailto:arnold@umbraco.com)
 * Emma Burstow (She, Her - Languages spoken: English) [ema@umbraco.com](mailto:ema@umbraco.com)
 
